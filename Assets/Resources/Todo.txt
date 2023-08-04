@@ -1,0 +1,10 @@
+Clean up Heightmap generator
+Add remaining levels to heightmap generator
+Add procedurally generated terrain stamps?
+
+Add river generation to map creation script
+
+Render heightmaps
+texture chunks
+
+Fix top border hexagons
